@@ -1,5 +1,5 @@
 ### How to Use
-Copy script.js from https://github.com/N4tzz-Official/RobloxGameBugScaning/Script.js
+Copy script.js from https://github.com/N4tzz-Official/RobloxGameBugScaning/script.js
 Play Game You Want to Hacking/hack protocol/scaning
 Open chat
 Paste The Code/Script
